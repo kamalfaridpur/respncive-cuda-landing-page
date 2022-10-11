@@ -1,0 +1,197 @@
+@media only screen and (max-width: 600px) {
+  .col-1
+  {width: 8.33%;
+ float: left;}
+ 
+ .col-2
+  {width: 16.66%;
+ float: left;}
+ .col-3 
+ {width: 25%;}
+ .col-4 {width: 33.33%;
+ float: left;}
+ .col-5
+  {width: 41.66%;
+ float: left;}
+ .col-6
+  {width: 50%;
+ float: left;}
+ .col-7 
+ {width: 58.33%;
+ float: left;}
+ .col-8 
+ {width: 66.66%;
+ float: left;}
+ .col-9
+  {width: 75%;
+ float: left;}
+ .col-10 
+ {width: 83.33%;
+ float: left;}
+ .col-11
+  {width: 91.66%;
+ float: left;}
+ .col-12 
+ {width: 100%;
+ float: left;}
+ 
+ 
+   header{
+     background-color: #336699;
+     text-align: center;
+     width: 100%;
+ }
+ 
+ .container{
+ width: 100%;
+ padding: 0px 20px;
+ }
+ header{
+ text-align: center; 
+ width: 100%;
+ font-size: medium;
+ }
+ .menu-part ul{
+ text-align: center;
+ width: 100%;
+ font-size: medium;
+ }
+ .hero-part h1{
+ font-size: 25px;
+ width: 100%;
+ width: 100%;
+ 
+ }
+ .hero-part{
+ padding: 50px 0px;
+ width: 100%;
+ 
+ }
+ .hero-part button{
+ padding: 5px 15px;
+ font-size: medium;
+ width: 100%;
+ }
+ 
+ #service{
+   background-color: #17c2a4;
+   text-align: center;
+ }
+ .service-writing-part{
+   width: 100%;
+   font-size: medium;
+ 
+ }
+ .service-box {
+   width: 100%;
+   font-size: medium;
+ 
+ }
+ #team{
+  background-color: #e7f1f8;
+  text-align: center;
+  width: 100%;
+ }
+ .team-writing-part{
+  width: 100%;
+  font-size: medium;
+ }
+ .team-box-part{
+  width: 100%;
+  font-size: medium;
+ }
+.team-box{
+  width: 100%;
+  font-size: medium;
+}
+#skill{
+  background-color: #ffffff;
+
+}
+.skill-writing-part{
+  width: 100%;
+  font-size: medium;
+
+}
+.skill-box-part{
+  width: 100%;
+  font-size: medium;
+
+}
+.skill-box{
+  width: 100%;
+  font-size: medium;
+
+}
+#proto{
+  background-color: #ffdd99;
+}
+.proto-writing-part{
+  width: 100%;
+  font-size: medium;
+}
+.proto-box{
+  width: 100%;
+  font-size: medium;
+}
+.proto button{
+  width: 100%;
+  font-size: medium;
+}
+#about{
+  background-color: #d74680;
+}
+.about-writing-part{
+  width: 100%;
+  font-size: medium;
+}
+.about-box{
+  width: 100%;
+  font-size: medium;
+
+}
+#form-section{
+  background-color: #3c5499;
+  width: 100%;
+  text-align: center;
+}
+input{
+  width: 100%;
+  font-size: medium;
+  text-align: center;
+}
+textarea{
+  width: 100%;
+  font-size: medium;
+  text-align: center;
+}
+#form-section button{
+  width: 100%;
+  font-size: medium;
+  text-align: center;
+}
+#footer-part{
+  width: 100%;
+  font-size: medium;
+  text-align: center;
+}
+ 
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+    
+     
+ 
+    
+
+
+
+
+
+

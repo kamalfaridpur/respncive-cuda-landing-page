@@ -1,0 +1,316 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+.row{
+  width: 100%; 
+  float: left; 
+}
+
+
+
+
+.col-1
+ {width: 8.33%;
+float: left;}
+
+.col-2
+ {width: 16.66%;
+float: left;}
+.col-3 
+{width: 25%;}
+.col-4 {width: 33.33%;
+float: left;}
+.col-5
+ {width: 41.66%;
+float: left;}
+.col-6
+ {width: 50%;
+float: left;}
+.col-7 
+{width: 58.33%;
+float: left;}
+.col-8 
+{width: 66.66%;
+float: left;}
+.col-9
+ {width: 75%;
+float: left;}
+.col-10 
+{width: 83.33%;
+float: left;}
+.col-11
+ {width: 91.66%;
+float: left;}
+.col-12 
+{width: 100%;
+float: left;}
+
+header{
+    background-color: #87509c;
+    color: white;
+    
+}
+nav{
+  padding: 10px opx;
+}
+.menu-part{
+  text-align: center;
+
+}
+.menu-part ul{
+  text-align: end;
+  padding: 5px 0px;
+
+}
+.menu-part li{
+  display: inline-block;
+  padding:5px ;
+  margin:0px 5px ;
+
+}
+.menu-part li a{
+  font-size:17px ;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 600;
+  color: white;
+  line-height: 17px;
+
+}
+.hero-part{
+  font-size: medium;
+  line-height: normal;
+  
+  width: 70%;
+  margin: auto;
+}
+.hero-part{
+  padding: 150px 0px;
+  text-align: center;
+}
+.hero-part button{
+  color: white;
+  background-color: #eb7d4b;
+
+}
+
+
+
+#service{
+  background-color:#17c2a4;
+  width: 100%;
+  float: left;
+  
+  color: white;
+
+}
+.service-writeing-part{
+  width: 100%;
+  float: left;
+  margin-top: 50px;
+  text-align: center;
+
+}
+.service-box-part{
+  width: 100%;
+  float: left;
+
+}
+.service-box{
+  width: 25%;
+  float: left;
+}
+.service-writing-part h2{
+  text-align: center;
+}
+.service-writing-part p{
+  text-align: center;
+
+}
+
+#team{
+  width: 100%;
+  float: left;
+  background-color: #e7f1f8;
+  text-align: center;
+
+}
+.team-writing-part{
+  width: 100%;
+  float: left;
+  margin-bottom: 50px;
+
+}
+.team-box-part{
+  width: 100%;
+  float: left;
+
+}
+.team-box{
+  width: 25%;
+  float: left;
+  text-align: center;
+
+}
+.team-box img{
+
+
+}
+.team-social-icon{
+  font-size: 25px;
+  padding: 10px;
+  background: none;
+  border-radius: 50%;
+
+}
+
+#skill{
+  width: 100%;
+  float: left;
+  background-color: white;
+  text-align: center;
+
+}
+.skill-writing-part{
+  width: 100%;
+  float: left;
+
+}
+.skill-box-part{
+  width: 100%;
+  float: left;
+
+}
+.skill-box{
+  width: 25%;
+  float: left;
+  text-align: center;
+
+}
+
+
+#proto{
+  width: 100%;
+  float: left;
+  background-color: #ffdd99;
+  text-align: center;
+
+}
+.proto-writing-part{
+  width: 100%;
+  float: left;
+
+}
+.proto-box-part{
+  width: 100%;
+  float: left;
+
+}
+.proto-box{
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+.proto button{
+  width: 200px;
+  padding: 10px;
+  margin-top: 20px;
+  color: white;
+  background-color: #eb7d4b;
+
+
+}
+
+#about{
+  width: 100%;
+  float: left;
+  background-color: #d74680;
+  text-align: center;
+  
+
+  
+  
+
+
+}
+.about-writing-part{
+  width: 100%;
+  float: left;
+
+}
+.about-box-part{
+  width: 100%;
+  float: left;
+
+}
+.about-box{
+  width: 50%;
+  
+  text-align: center;
+  float: left;
+
+
+}
+
+#form-section{
+  background-color: #336699;
+  color: white;
+  text-align: center;
+}
+input{
+  background-color: #333366;
+  width: 38%;
+  padding: 15px;
+  margin-left: 24px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+textarea{
+  width: 80%;
+  margin-left: 24px;
+  padding: 55px;
+  background-color: #333366;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+#form-section button{
+  background-color: #33ccff;
+  border-style: solid;
+  border-width: 0px 0px 3px ;
+  border-color: #3399cc;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+footer{
+  background: #344b8e;
+  padding: 20px;
+}
+nav{
+  text-align: center;
+}
+nav ul{
+}
+nav ul li{
+  display: inline-block;
+}
+nav ul li a{
+  padding: 15px 25px;
+  color: #ffffff;
+}
+nav ul li a:hover{color: #cfcccc;}
+
+}
+
+
+
+
+
+     
+  
+  
+ 
+  
